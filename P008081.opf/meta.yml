@@ -1,16 +1,17 @@
-id: opecha:P008081
+id: P008081
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG16606
   title: སྔ་འགྱུར་རྙིང་མའི་ལུགས་ཀྱི་ལྟ་སྒོམ་སྤྱོད་གསུམ་གྱི་རྣམ་གཞག་མདོ་རྩམ་བརྗོད་པ་ཚེས་པའི་ཟླ་བ།
-  volume:
+  author: ''
+  volumes:
     d0e47dfd025b4f239543f45b84e46b90:
       image_group_id: I1KG16631
       title: Volume 1 of snga 'gyur rnying ma'i lugs kyi lta sgom spyod gsum gyi rnam
         gzhag mdo rtsam brjod pa tshes pa'i zla ba/
       volume_number: 1
       total_pages: 434
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སྔ་འགྱུར་རྙིང་མའི་ལུགས་ཀྱི་ལྟ་སྒོམ་སྤྱོད་གསུམ་གྱི་རྣམ་གཞག་མདོ་རྩམ་བརྗོད་པ་ཚེས་པའི་ཟླ་བ།
   author: ''
