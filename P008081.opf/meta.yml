@@ -1,5 +1,7 @@
 id: P008081
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG16606
   title: སྔ་འགྱུར་རྙིང་མའི་ལུགས་ཀྱི་ལྟ་སྒོམ་སྤྱོད་གསུམ་གྱི་རྣམ་གཞག་མདོ་རྩམ་བརྗོད་པ་ཚེས་པའི་ཟླ་བ།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 434
       base_file: v001.txt
-ebook_metadata:
-  title: སྔ་འགྱུར་རྙིང་མའི་ལུགས་ཀྱི་ལྟ་སྒོམ་སྤྱོད་གསུམ་གྱི་རྣམ་གཞག་མདོ་རྩམ་བརྗོད་པ་ཚེས་པའི་ཟླ་བ།
-  author: ''
-  sku: P008081
-  cover: cover.jpg
-  layers:
-  - pagination
